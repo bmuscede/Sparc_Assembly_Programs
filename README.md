@@ -1,5 +1,4 @@
 Sparc_Assembly_Programs
-Bryan J Muscedere
 =======================
 
 Collection of programs written in SPARC assembly language. These demonstrate a proficiency in assembly language.
